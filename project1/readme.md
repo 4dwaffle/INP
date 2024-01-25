@@ -1,3 +1,6 @@
+# Processor with a simple instruction set
+VHDL implementation of a processor, which can run a program written in Brainfuck.
+
 | Command  | Code | Meaning                                                       | C Equivalent    |
 | -------- | ---- | ------------------------------------------------------------- | --------------- |
 | >        | 0x3E | increment pointer value                                       | ptr += 1;       |
